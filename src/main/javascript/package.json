@@ -1,0 +1,25 @@
+{
+  "name": "drone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElectroBoy404NotFound/AIDrone.git"
+  },
+  "keywords": [
+    "drone",
+    "AI",
+    "java",
+    "javascript"
+  ],
+  "author": "ElectronicsBoy",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ElectroBoy404NotFound/AIDrone/issues"
+  },
+  "homepage": "https://github.com/ElectroBoy404NotFound/AIDrone#readme"
+}
